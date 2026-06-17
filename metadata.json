@@ -1,0 +1,6 @@
+{
+  "name": "Varnika",
+  "description": "Transform your room into a beautiful, personalized space through AI-driven design and color intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
